@@ -6,7 +6,7 @@
 
 [![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hima-shankar/) 
 [![MEDIUM](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maddalahima) 
-[![LEETCODE](	https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HimaMaddala/)
+[![LEETCODE](	https://img.shields.io/badge/Leetcode-FF8000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HimaMaddala/)
 
 
 - 🔭 I’m currently working on **React,ExpressJs,NodeJs,MongoDB,Machine learning**
