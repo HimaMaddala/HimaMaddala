@@ -10,8 +10,7 @@
 
 
 - 🔭 I’m currently working on:
-  **React,ExpressJs,NodeJs,MongoDB**
-  **Machine Learning**
+  **React, ExpressJs, NodeJs, MongoDB, Machine Learning, Image processing, Data Analysis, Visualization dashboards**
 
 - 🌱 I’m currently learning **Android Studio**
 
