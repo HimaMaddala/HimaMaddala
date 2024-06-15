@@ -64,7 +64,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himamaddala&show_icons=true&locale=en&layout=compact" alt="himamaddala" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himamaddala&show_icons=true&locale=en" alt="himamaddala" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=himamaddala&show_icons=true&locale=en" alt="himamaddala" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himamaddala&" alt="himamaddala" /></p>
 
 
