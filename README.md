@@ -9,7 +9,10 @@
 [![LEETCODE](	https://img.shields.io/badge/Leetcode-FF8000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HimaMaddala/)
 
 
-- 🔭 I’m currently working on **React,ExpressJs,NodeJs,MongoDB,Machine learning**
+- 🔭 I’m currently working on:
+-  **React,ExpressJs,NodeJs,MongoDB**
+-  **Machine learning**
+-  **Computer vision and Image prcoessing**
 
 - 🌱 I’m currently learning **Android Studio**
 
