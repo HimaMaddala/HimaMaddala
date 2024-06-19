@@ -25,7 +25,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills and Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
