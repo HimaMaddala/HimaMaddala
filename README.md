@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native and Android Studio**
 
-- 📫 How to reach me **maddalahima@gmail.com**
+- 📫 For contact **maddalahima@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
