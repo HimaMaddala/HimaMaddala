@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hima Shankar</h1>
 <h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952jsr5c4e9iskq574hukg7remxm4gb7eetd3m9aemw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 [![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hima-shankar/) 
 [![MEDIUM](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maddalahima) 
