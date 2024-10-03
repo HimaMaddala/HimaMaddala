@@ -12,9 +12,7 @@
 - 🔭 I’m currently working on:
   **React, ExpressJs, NodeJs, MongoDB, Machine Learning, Image processing, Data Analysis, Visualization dashboards**
 
-- 🌱 I’m currently learning **React Native and Android Studio**
-
-- 📫 For contact **maddalahima@gmail.com**
+- 🌱 Interested in **React Native and Android Studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
