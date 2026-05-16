@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hima Shankar</h1>
+<h1 align="center">I'm HIMA</h1>
 <h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952jsr5c4e9iskq574hukg7remxm4gb7eetd3m9aemw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
